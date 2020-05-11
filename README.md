@@ -1,2 +1,2 @@
 # hello-world
-First use of GitHub
+First use of GitHub. My first day on GitHub
